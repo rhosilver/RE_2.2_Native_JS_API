@@ -17,6 +17,7 @@ wp8:
 android:
   manifest_template: "AndroidManifest.erb"
   version: "2.3.3"
+  abis: [arm, x86]
 wm: 
 extensions:
   - rhoconnect-client
