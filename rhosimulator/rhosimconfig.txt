@@ -1,0 +1,9 @@
+rhodes_path='C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.1.0.beta.3'
+app_version='1.0'
+app_name='RE_2.2_Native_JS_API'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='android'
+os_version='2.3.3'
+ext_path=C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.1.0.beta.3/lib/commonAPI/coreapi;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.1.0.beta.3/lib/extensions/json;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoconnect-client-5.1.0.beta.3/lib/../ext/rhoconnect-client;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/rhoelementsext;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/motoapi;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/symboldevice;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/barcode;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/signature;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/cardreader;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/indicators;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.1.0.beta.3/libs/hardwarekeys;C:/RhoMobileSuite5.1.0.beta.3/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.1.0.beta.3/lib/commonAPI/sensor;
